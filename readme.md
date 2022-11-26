@@ -5,7 +5,7 @@
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
 <p align="center">Still work in progress:</p>
-<p align="center">macOS Theme is done, Android and Desktop are partially done, iOS not started yet</p>
+<p align="center">macOS and iOS Themes are mostly done, could need some polishing/feedback. Android and Desktop are partially done but still need a lot of work./p>
 
 <p align="center">
     <a href="https://github.com/rose-pine/rose-pine-theme">

@@ -30,7 +30,12 @@ or
 
 ## Gallery
 
-TODO
+![Rosé Pine Moon macOS screenshot](https://user-images.githubusercontent.com/20300586/204109074-2aea4a96-da1d-4793-ae48-9ef24f7fdca4.png)
+![Rosé Pine Dawn macOS screenshot](https://user-images.githubusercontent.com/20300586/204109094-3dd95b47-65c8-410a-9c92-c9da750cf377.png)
+
+![Rosé Pine Moon iOS screenshot](https://user-images.githubusercontent.com/20300586/204109760-518ef54f-a715-479d-8cd7-6687aad53392.jpg)
+![Rosé Pine Moon iOS screenshot](https://user-images.githubusercontent.com/20300586/204109307-1d2ff441-d43a-49ce-953d-f68375dd9f81.png)
+
 
 ## Thanks to
 
